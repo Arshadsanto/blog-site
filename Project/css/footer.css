@@ -1,0 +1,17 @@
+.footer{
+  background-color: #999;
+  grid-area: ft;
+  display: grid;
+  grid-template-columns: auto auto auto auto ;
+  font-size: 10px;
+  }
+  .partone{
+      border-right: 1px solid whitesmoke;
+      display: grid;
+      align-items: center;
+      text-align: center;    
+  }
+  .partone4{
+      text-align: center;
+  }
+    
