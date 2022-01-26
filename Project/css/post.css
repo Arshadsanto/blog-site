@@ -26,8 +26,12 @@ p {
 .post2{
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(3, 5vw);
+  grid-template-rows: repeat(2, .5fr);
   grid-gap: 5px; 
+  padding-bottom: 30px;
+}
+.photobox{
+align-items: center;
 }
 .gallery{
     width: 100%;
